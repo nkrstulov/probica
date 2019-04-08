@@ -1,0 +1,7 @@
+C:\Users\Nora\source\repos\19.T3\19G3\bin\Debug\19G3.exe.config
+C:\Users\Nora\source\repos\19.T3\19G3\bin\Debug\19G3.exe
+C:\Users\Nora\source\repos\19.T3\19G3\bin\Debug\19G3.pdb
+C:\Users\Nora\source\repos\19.T3\19G3\obj\Debug\19G3.csprojAssemblyReference.cache
+C:\Users\Nora\source\repos\19.T3\19G3\obj\Debug\19G3.csproj.CoreCompileInputs.cache
+C:\Users\Nora\source\repos\19.T3\19G3\obj\Debug\19G3.exe
+C:\Users\Nora\source\repos\19.T3\19G3\obj\Debug\19G3.pdb
