@@ -8,10 +8,10 @@ namespace _19G3
 {
     class Iznimka :ApplicationException
     {
-        public string Poruka { get; set; }
+        public string Porukica { get; set; }
         public Iznimka(string poruka)
         {
-            Poruka = poruka;
+            Porukica = poruka;
         }
 
     }
